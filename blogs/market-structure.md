@@ -13,7 +13,7 @@ author:
   image: http://localhost:3001/public/blog-images/team-michael.jpg
   bio: Senior Market Analyst with over 10 years of experience in forex and futures markets.
 publishedAt: 2023-06-10T09:00:00Z
-readTime: 8 min read
+readTime: 7 min read
 related:
   - using-r-multiples-to-measure-trade-quality
   - building-a-pre-trade-checklist-that-actually-works
